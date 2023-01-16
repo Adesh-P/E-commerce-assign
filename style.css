@@ -631,18 +631,18 @@ footer .copyright {
 }
 @media (max-width: 540px) {
     #banner {
-        height: 55vh;
+        height: 60vh;
         background-position: top 30% right 30%;
     }
     #banner h4 {
         padding-top: 20px;
     }
     h1 {
-        font-size: 40px;
+        font-size: 35px;
         line-height: 35px;
     }
     h2 {
-        font-size: 30px;
+        font-size: 25px;
         line-height: 25px;
     }
     h4 {
@@ -666,7 +666,7 @@ footer .copyright {
     }
     #text-banner .banner-box {
         width: 80%;
-        height: 25vh;
+        height: 27vh;
         margin: 20px;
     }
     footer {
