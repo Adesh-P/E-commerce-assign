@@ -631,7 +631,7 @@ footer .copyright {
 }
 @media (max-width: 540px) {
     #banner {
-        height: 50vh;
+        height: 55vh;
         background-position: top 30% right 30%;
     }
     #banner h4 {
