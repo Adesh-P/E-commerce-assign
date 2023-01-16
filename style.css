@@ -632,7 +632,10 @@ footer .copyright {
 @media (max-width: 540px) {
     #banner {
         height: 50vh;
-        background-position: top 45% right 60%;
+        background-position: top 30% right 40%;
+    }
+    #banner h4 {
+        padding-top: 15px;
     }
     #feature .box {
         width: 320px;
