@@ -630,9 +630,13 @@ footer .copyright {
     }
 }
 @media (max-width: 540px) {
+    .header {
+        padding: 20px 50px;
+    }
     #banner {
         height: 60vh;
         background-position: top 30% right 30%;
+        padding: 0 50px;
     }
     #banner h4 {
         padding-top: 20px;
