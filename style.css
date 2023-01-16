@@ -584,6 +584,9 @@ footer .copyright {
     #text-banner h2 {
         font-size: 16px;
     }
+    #newsletter .form {
+        width: 100%;
+    }
 }
 
 @media (max-width: 768px) {
@@ -597,10 +600,65 @@ footer .copyright {
     #feature .box {
         margin: 15px;
     }
+    #product .box {
+        width: 43%;
+        margin: 15px;
+    }
+    #banner-container {
+        height: 25vh;
+    }
     #text-banner .banner-box {
         width: 28%;    
     }
     #text-banner h2 {
         font-size: 16px;
+    }
+    #sm-banner .banner-box {
+        min-width: 100%;
+        height: 40vh;
+    }
+    #text-banner {
+        justify-content: center;
+    }
+    #text-banner .banner-box {
+        width: 60%;
+        height: 25vh;
+        margin: 20px;
+    }
+    #newsletter .form {
+        width: 100%;
+    }
+}
+@media (max-width: 540px) {
+    #banner {
+        height: 40vh;
+        background-position: top 30% right 90%;
+    }
+    #feature .box {
+        width: 320px;
+    }
+    #feature {
+        justify-content: center;
+    }
+    #feature .box {
+        margin: 15px;
+    }
+    #product .box {
+        width: 80%;
+        margin: 15px;
+    }
+    #banner-container {
+        height: 22svh;
+    }
+    #text-banner .banner-box {
+        width: 80%;
+        height: 25vh;
+        margin: 20px;
+    }
+    footer {
+        justify-content: space-between;
+    }
+    footer .col{
+        width: 80%;
     }
 }
