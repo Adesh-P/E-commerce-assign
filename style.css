@@ -631,8 +631,8 @@ footer .copyright {
 }
 @media (max-width: 540px) {
     #banner {
-        height: 40vh;
-        background-position: top 30% right 90%;
+        height: 50vh;
+        background-position: top 45% right 60%;
     }
     #feature .box {
         width: 320px;
@@ -648,7 +648,7 @@ footer .copyright {
         margin: 15px;
     }
     #banner-container {
-        height: 22svh;
+        height: 25vh;
     }
     #text-banner .banner-box {
         width: 80%;
